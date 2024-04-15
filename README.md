@@ -1,1 +1,13 @@
-# cedricnyagatare.github.io
+# Aspiring Data Scientist
+
+## Education 
+
+
+
+## Work Experience 
+
+
+
+### Projects
+
+

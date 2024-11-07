@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-Technical Skills: Python,AWS,R,Numpy,Pandas
+Technical Skills: Python,AWS,R,Numpy
 
 ## Education 
 

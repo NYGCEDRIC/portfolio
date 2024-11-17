@@ -58,5 +58,6 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
 
 <div>
   <!-- Add your embedded Plotly visualization here -->
-  <iframe src="file:///Users/cedricnyagatare/Downloads/plot.html" width="100%" height="600px" frameborder="0"></iframe>
+ <iframe src="https://raw.githubusercontent.com/NYGCEDRIC/portfolio/main/plot.html" width="100%" height="600px" frameborder="0"></iframe>
+
 </div>

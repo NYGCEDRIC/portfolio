@@ -1,6 +1,7 @@
 # Aspiring Data Scientist
 
-Technical Skills: Python,AWS,R,Numpy
+Technical Skills: Python, AWS, R, NumPy, Pandas, Matplotlib, Scikit-learn, SQL, Tableau, Data Visualization, Docker, TensorFlow, PyTorch, Git/GitHub, Azure, Excel (Advanced), API Integration, Data Wrangling, Statistics, Time Series Analysis, Big Data (Spark, Hadoop).
+
 
 ## Education 
 

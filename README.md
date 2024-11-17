@@ -34,26 +34,6 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
 
 ## Data Sources and Project Ideas
 
-1. [Kaggle's Titanic Dataset](https://www.kaggle.com/c/titanic)  
-   A dataset containing information about passengers on the Titanic, including demographics and survival information.  
-   **Project Idea**: Analyze survival rates based on passenger classes, gender, and ages, and create a model to predict survival probability.
-
-2. [OpenWeatherMap API](https://openweathermap.org/api)  
-   Provides weather data, including current conditions, forecasts, and historical data.  
-   **Project Idea**: Create a weather forecasting dashboard for a specific city and explore correlations between weather conditions and local events.
-
-3. [NYC Open Data](https://opendata.cityofnewyork.us/)  
-   Public datasets about New York City, including public safety, transportation, and more.  
-   **Project Idea**: Analyze traffic patterns and accident hotspots to propose improvements to traffic flow and safety measures.
-
-4. [Google Trends](https://trends.google.com/trends/)  
-   Provides insights on what the world is searching for in real-time.  
-   **Project Idea**: Explore trends in search popularity for various topics over time and predict the next major trends.
-
-5. [World Bank Open Data](https://data.worldbank.org/)  
-   A source of global development data, including indicators such as GDP, population, and life expectancy.  
-   **Project Idea**: Analyze economic growth patterns across different countries and correlate them with education or healthcare metrics.
-
 ## Project Introduction: Where’s Schueller?
 
 This visualization is part of a class project aimed at analyzing and displaying dining preferences based on geolocation data. The goal is to illustrate how visits to different locations correlate with meal times, using frequency data to highlight popular spots for coffee, lunch, and dinner. By leveraging data-driven insights, this project demonstrates an understanding of data visualization techniques and offers a practical example of mapping user behavior with enhanced hover details and color-coded meal categories.
@@ -61,7 +41,7 @@ This visualization is part of a class project aimed at analyzing and displaying 
 
 <div>
   <!-- Add your embedded Plotly visualization here -->
- <iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="1200px" height="1000px" frameborder="0"></iframe>
 
 
 </div>

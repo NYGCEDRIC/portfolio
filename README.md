@@ -63,7 +63,7 @@ This visualization is part of a class project aimed at analyzing and displaying 
 
 <div>
   <!-- Add your embedded Plotly visualization here -->
-<iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="80%" height="500px" frameborder="0"></iframe>
+<iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="110%" height="600px" frameborder="0"></iframe>
 
 
 </div>

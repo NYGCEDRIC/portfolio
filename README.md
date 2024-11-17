@@ -42,7 +42,7 @@ This visualization is part of a class project aimed at analyzing and displaying 
 
 <div>
   <!-- Add your embedded Plotly visualization here -->
-<iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="100%" height="800px" frameborder="0"></iframe>
+<iframe src="https://NYGCEDRIC.github.io/portfolio/plot.html" width="200%" height="700px" frameborder="0"></iframe>
 
 
 </div>

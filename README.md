@@ -32,21 +32,31 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
     •Provided personalized instruction and mentoring to over 35 students per semester in college-level algebra and calculus, resulting in a 95% student satisfaction rate
     and an average grade improvement of one full letter among tutees.
 
-### Projects
+## Data Sources and Project Ideas
 
-Co-Founder and Prompt Engineer of Heale.ai | May 2023 - Present
-    
-    •Spearheaded the development and refinement of AI-driven prompt engineering, significantly enhancing the app's conversational model accuracy from 85% to 95%.
-      This breakthrough improved user engagement and satisfaction by delivering more accurate, contextually relevant responses and therapeutic recommendations.
+1. [Kaggle's Titanic Dataset](https://www.kaggle.com/c/titanic)  
+   A dataset containing information about passengers on the Titanic, including demographics and survival information.  
+   **Project Idea**: Analyze survival rates based on passenger classes, gender, and ages, and create a model to predict survival probability.
 
-    • Skills: Python,pandas, NumPy, Sklearn, SciPy, Keras,Regression, Random Forest
+2. [OpenWeatherMap API](https://openweathermap.org/api)  
+   Provides weather data, including current conditions, forecasts, and historical data.  
+   **Project Idea**: Create a weather forecasting dashboard for a specific city and explore correlations between weather conditions and local events.
 
-Tweet-App-Generator | January 2024 - March 2024
+3. [NYC Open Data](https://opendata.cityofnewyork.us/)  
+   Public datasets about New York City, including public safety, transportation, and more.  
+   **Project Idea**: Analyze traffic patterns and accident hotspots to propose improvements to traffic flow and safety measures.
 
-    • Tweet-App-Generator:Developed a web application utilizing Streamlit for interactive user interface and successfully integrated GPT-4.0.
-      Developed and integrated custom tweet generation functionality using Python and Twitter API, enabling users to input specific topics and generate up to 100 tweets
-      automatically.
+4. [Google Trends](https://trends.google.com/trends/)  
+   Provides insights on what the world is searching for in real-time.  
+   **Project Idea**: Explore trends in search popularity for various topics over time and predict the next major trends.
 
-     • Skills: Natural Language Processing ,Python,User Interface (UI) Design(Streamlit).
+5. [World Bank Open Data](https://data.worldbank.org/)  
+   A source of global development data, including indicators such as GDP, population, and life expectancy.  
+   **Project Idea**: Analyze economic growth patterns across different countries and correlate them with education or healthcare metrics.
 
+## Where's Schueller?
 
+<div>
+  <!-- Add your embedded Plotly visualization here -->
+  <iframe src="file:///Users/cedricnyagatare/Downloads/plot.html" width="100%" height="600px" frameborder="0"></iframe>
+</div>

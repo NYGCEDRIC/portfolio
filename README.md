@@ -9,7 +9,7 @@ Bachelor's degree, Computer Science and Economics | Whitman College | Minor in D
 
 Associate of Science - AS, Cybersecurity | Schoolcraft College | 4.0 | Livonia, Michigan | 2023
 
-## Work Experience 
+## Experience 
 
 Data Science Intern | iNeuron Intelligence Pvt Ltd | Remote | May 2023 - August 2023
 

@@ -56,10 +56,11 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
    A source of global development data, including indicators such as GDP, population, and life expectancy.  
    **Project Idea**: Analyze economic growth patterns across different countries and correlate them with education or healthcare metrics.
    
-## Featured Projects
+## Featured Project
 
-### [Analyzing Economic Trends](https://nygcedric.github.io/project_Part_III.github.io/))
-This project analyzes the relationship between S&P 500 performance, GDP growth, and political factors such as presidential administrations and congressional control. It features interactive visualizations and detailed analyses of economic trends over time.
+### [Analyzing Economic Trends](https://nygcedric.github.io/project_Part_III.github.io/)
+This project explores the relationship between S&P 500 performance, GDP growth, and political factors such as presidential administrations and congressional control. It includes detailed analyses and interactive visualizations of economic trends over time.
+
    
 # Where’s Schueller?
 This visualization is part of a class project aimed at analyzing and displaying dining preferences based on geolocation data. The goal is to illustrate how visits to different locations correlate with meal times, using frequency data to highlight popular spots for coffee, lunch, and dinner. By leveraging data-driven insights, this project demonstrates an understanding of data visualization techniques and offers a practical example of mapping user behavior with enhanced hover details and color-coded meal categories.

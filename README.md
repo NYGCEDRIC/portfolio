@@ -56,7 +56,7 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
    A source of global development data, including indicators such as GDP, population, and life expectancy.  
    **Project Idea**: Analyze economic growth patterns across different countries and correlate them with education or healthcare metrics.
    
-## Featured Project
+## Featured Projects
 
 ### [Analyzing Economic Trends](https://nygcedric.github.io/project_Part_III.github.io/)
 This project explores the relationship between S&P 500 performance, GDP growth, and political factors such as presidential administrations and congressional control. It includes detailed analyses and interactive visualizations of economic trends over time.

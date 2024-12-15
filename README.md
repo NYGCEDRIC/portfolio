@@ -58,7 +58,7 @@ ARC Peer Tutor for Math | Whitman College | Walla Walla | July 2021 - May 2022
    
 ## Featured Projects
 
-### [Analyzing Economic Trends](https://nygcedric.github.io/)
+### [Analyzing Economic Trends]([https://nygcedric.github.io/](https://nygcedric.github.io/project_Part_III.github.io/))
 This project analyzes the relationship between S&P 500 performance, GDP growth, and political factors such as presidential administrations and congressional control. It features interactive visualizations and detailed analyses of economic trends over time.
    
 # Where’s Schueller?
